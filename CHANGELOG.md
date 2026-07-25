@@ -5,6 +5,15 @@ All notable changes to the OpenModels Registry will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.5.0] - 2026-07-25
+
+### Added
+- **Claude Opus 5** — Anthropic's new state-of-the-art model succeeding Opus 4.8, approaching Fable 5 intelligence at half the price. Added the canonical model plus an `anthropic` mapping at $5.00 / $25.00 per 1M tokens (input/output), matching the launch API pricing.
+- **Motif 3 Beta** — South Korea's Motif Technologies' 314B-parameter sparse MoE (~13B active/token) with a native 256K context window and a fully in-house architecture. Open-weights, non-commercial research preview checkpoint. Added the canonical model only; no hosted provider mapping (self-hosted, no public rate card).
+
+### Fixed
+- **Claude Opus 4.8** pricing corrected from $15.00 / $75.00 to **$5.00 / $25.00** per 1M tokens (input/output), per Anthropic's Opus 5 announcement which states Opus 5 is priced "the same as Opus 4.8." Cache pricing updated to $6.25 write / $0.50 read.
+
 ## [1.4.0] - 2026-07-21
 
 ### Added

@@ -1,0 +1,19 @@
+id: claude-opus-5
+name: Claude Opus 5
+description: Anthropic's new state-of-the-art model, a thoughtful and proactive successor to Opus 4.8 that approaches Claude Fable 5's frontier intelligence at half the price. Delivers major gains in coding, agentic workflows, computer use, knowledge work, and scientific research, with strong self-verification and iteration, configurable effort settings, and Anthropic's best alignment and safety results to date. Also available in a Fast mode that runs around 2.5x the default speed.
+capabilities:
+  - chat
+  - completion
+  - function-calling
+  - vision
+  - code-generation
+  - reasoning
+modalities:
+  - text
+  - image
+  - code
+context_window: 300000
+licensing: proprietary
+country: us
+created_at: "2026-07-21T00:00:00.000Z"
+updated_at: "2026-07-21T00:00:00.000Z"
