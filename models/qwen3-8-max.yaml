@@ -1,0 +1,20 @@
+id: qwen3-8-max
+name: Qwen 3.8 Max
+description: Alibaba's flagship next-generation Qwen model, a sparse Mixture-of-Experts system with roughly 2.4 trillion total parameters and a 1M-token context window. Natively multimodal across text, images, video, and documents, with a configurable thinking mode, function calling, and built-in tools. Positioned by Alibaba as second only to Claude Fable 5 among frontier models, with particular strength in long-context agentic coding, document work, and visual reasoning. Previewed at the World AI Conference in Shanghai on 19 July 2026 and made broadly available on 3 August 2026.
+capabilities:
+  - chat
+  - completion
+  - function-calling
+  - vision
+  - code-generation
+  - reasoning
+modalities:
+  - text
+  - image
+  - video
+  - code
+context_window: 1000000
+licensing: proprietary
+country: cn
+created_at: "2026-08-03T00:00:00.000Z"
+updated_at: "2026-08-03T00:00:00.000Z"

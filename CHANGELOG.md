@@ -5,6 +5,16 @@ All notable changes to the OpenModels Registry will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.6.0] - 2026-08-03
+
+### Added
+- **Qwen 3.8 Max** — Alibaba's flagship next-generation model: ~2.4T-parameter sparse MoE, 1M-token context window, natively multimodal (text, image, video, documents), thinking mode and function calling. Previewed 19 July 2026 at WAIC Shanghai, broadly available 3 August 2026. Added the canonical model plus an `alibaba-model-studio` mapping at $2.00 / $6.00 per 1M tokens with $0.25 per 1M cached input.
+
+### Changed
+- **GPT-5.6 Terra** pricing cut 20% — $2.50 / $15.00 → **$2.00 / $12.00** per 1M tokens (OpenAI price change, 30 July 2026).
+- **GPT-5.6 Luna** pricing cut 80% — $1.00 / $6.00 → **$0.20 / $1.20** per 1M tokens (OpenAI price change, 30 July 2026).
+- GPT-5.6 Sol pricing left unchanged, per OpenAI's announcement.
+
 ## [1.5.0] - 2026-07-25
 
 ### Added
