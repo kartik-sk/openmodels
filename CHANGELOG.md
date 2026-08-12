@@ -5,6 +5,11 @@ All notable changes to the OpenModels Registry will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.7.0] - 2026-08-06
+
+### Added
+- **Grok 4.6** — xAI's new model building on Grok 4.5, focused on long-running agents and interactive/visual work. Matches GPT-5.6 Sol on the Artificial Analysis Intelligence Index (61). Added the canonical model plus `xai` and `openrouter` mappings at $2.00 / $6.00 per 1M tokens, matching the launch rate card.
+
 ## [1.6.0] - 2026-08-03
 
 ### Added

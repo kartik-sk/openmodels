@@ -1,0 +1,19 @@
+id: grok-4-6
+name: Grok 4.6
+description: xAI's model building on Grok 4.5 with a focus on long-running agents and ambitious interactive and visual work. Sustains complex multi-step tasks across research, analysis, and whole codebases, and shows more self-testing and verification on long trajectories. Reaches frontier intelligence across agentic coding and knowledge work benchmarks, matching GPT-5.6 Sol on the Artificial Analysis Intelligence Index, and produces notably stronger first passes on visual and interactive projects. Trained with agentic RL across kernel optimization, web development, and computer-aided design, with real-time information access and an OpenAI-compatible API.
+capabilities:
+  - chat
+  - completion
+  - function-calling
+  - vision
+  - code-generation
+  - reasoning
+modalities:
+  - text
+  - image
+  - code
+context_window: 500000
+licensing: proprietary
+country: us
+created_at: "2026-08-06T00:00:00.000Z"
+updated_at: "2026-08-06T00:00:00.000Z"
