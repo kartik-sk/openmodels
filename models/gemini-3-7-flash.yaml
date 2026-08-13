@@ -1,0 +1,22 @@
+id: gemini-3-7-flash
+name: Gemini 3.7 Flash
+description: Google DeepMind's most intelligent workhorse Flash model yet, released three weeks after Gemini 3.6 Flash with substantial gains in coding, agentic tool use, and knowledge work. Delivers stronger first-pass code accuracy, more functional web app generation, and improved multi-step planning, while natively multimodal across text, image, audio, and video with a 1M-token context window and configurable thinking levels.
+capabilities:
+  - chat
+  - completion
+  - function-calling
+  - vision
+  - audio
+  - code-generation
+  - reasoning
+modalities:
+  - text
+  - image
+  - audio
+  - video
+  - code
+context_window: 1000000
+licensing: proprietary
+country: us
+created_at: "2026-08-13T00:00:00.000Z"
+updated_at: "2026-08-13T00:00:00.000Z"

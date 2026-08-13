@@ -5,6 +5,11 @@ All notable changes to the OpenModels Registry will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.8.0] - 2026-08-13
+
+### Added
+- **Gemini 3.7 Flash** — Google DeepMind's new workhorse Flash model, released three weeks after 3.6 Flash with substantial gains in coding, agentic tool use, web development, and knowledge work (e.g. FrontierCode 1.1 Main 43.6% vs 34.4%, DeepSWE v1.1 65.3% vs 49.0%). Added the canonical model plus `google` (Vertex AI) and `google-ai-studio` mappings at an introductory $0.75 / $3.75 per 1M tokens, half the original 3.6 Flash price.
+
 ## [1.7.0] - 2026-08-06
 
 ### Added
