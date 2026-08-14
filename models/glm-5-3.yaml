@@ -1,0 +1,17 @@
+id: glm-5-3
+name: GLM-5.3
+description: Z.ai's (formerly Zhipu AI) coding and agentic upgrade built on the same base model as GLM-5.2, with all gains coming from extended post-training (more executable environments, longer-horizon tasks, more RL compute). Claims the strongest open-weight coding performance to date, with large jumps on Terminal-Bench 3.0, DeepSWE v1.1, SWE-Marathon v1.1, and cybersecurity benchmarks like CyberGym and ExploitBench. Supports low, high, and max reasoning effort levels with a 1M-token context route.
+capabilities:
+  - chat
+  - completion
+  - function-calling
+  - code-generation
+  - reasoning
+modalities:
+  - text
+  - code
+context_window: 1000000
+licensing: other
+country: cn
+created_at: "2026-08-14T00:00:00.000Z"
+updated_at: "2026-08-14T00:00:00.000Z"

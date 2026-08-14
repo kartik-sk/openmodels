@@ -5,6 +5,11 @@ All notable changes to the OpenModels Registry will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.9.0] - 2026-08-14
+
+### Added
+- **GLM-5.3** — Z.ai's (formerly Zhipu AI) coding and agentic upgrade to GLM-5.2, built on the same base model with all gains from extended post-training. Reports major benchmark jumps (e.g. Terminal-Bench 3.0 4.6% → 28.3%, DeepSWE v1.1 46.2% → 66.9%, SWE-Marathon v1.1 19.4% → 42.5%, CyberGym 77.2% → 84.5%), a 1M-token context route, and low/high/max reasoning effort levels. Added the canonical model only; no hosted provider mapping yet, as Z.ai has not published per-token API pricing (its standard rate card still lists GLM-5.2), the weights, model card, and license are pending ("coming soon" at launch).
+
 ## [1.8.0] - 2026-08-13
 
 ### Added

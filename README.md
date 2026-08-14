@@ -2,7 +2,7 @@
 
 The open-source registry of LLM models, inference providers, and provider-model mappings. Community-maintained, schema-validated, and machine-readable.
 
-**Current stats:** 135 models · 52 providers · 209 mappings
+**Current stats:** 136 models · 52 providers · 209 mappings
 
 ## Overview
 
@@ -23,7 +23,7 @@ OpenModels is a structured, version-controlled registry that serves as the singl
 | Moonshot | Kimi K3, Kimi K2.7 Code, Kimi K2.6 |
 | Cohere | Command A+, Command A, Command R7B |
 | Cohere For AI | Tiny Aya, Aya Expanse 32B |
-| Zhipu | GLM-5.2, GLM-5.1, GLM-4.7 |
+| Zhipu | GLM-5.3, GLM-5.2, GLM-5.1, GLM-4.7 |
 | MiniMax | M3, M2.7 |
 | Sarvam AI | Sarvam-M, Sarvam-105B, Sarvam-30B, Sarvam-1 |
 | Sakana AI | Sakana Fugu Ultra, Sakana Fugu |
