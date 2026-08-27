@@ -1,0 +1,10 @@
+id: maison-token
+name: Maison Token
+description: US-based inference provider offering optimized, OpenAI-compatible access to open-weight language and multimodal models.
+api_base_url: https://api.maisontoken.co/v1
+auth_type: bearer
+regions:
+  - us-west-2
+compatibility: openai
+created_at: "2026-08-27T00:00:00.000Z"
+updated_at: "2026-08-27T00:00:00.000Z"
