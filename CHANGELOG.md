@@ -5,6 +5,12 @@ All notable changes to the OpenModels Registry will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.10.0] - 2026-08-27
+
+### Added
+- **GLM-5.3-Flash** — Z.ai's MIT-licensed, natively multimodal 320B sparse MoE model with 18B active parameters, hybrid linear/sparse attention, visual reasoning, and up to 1M tokens of context. Added the canonical model only: no public per-token API rate was available to create a source-backed provider mapping.
+- **Qwen3.8-Flash-Next** — Alibaba's open-weight multimodal architecture preview with a 125B backbone, 6B active parameters, 51B N-gram embeddings, 262K native context, and extension to 1M with YaRN. Added the canonical checkpoint only: the announced $0.16 / $0.47 API pricing belongs to the separate production model `Qwen3.8-Flash`, whose API is still marked as coming soon.
+
 ## [1.9.0] - 2026-08-14
 
 ### Added

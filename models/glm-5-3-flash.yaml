@@ -1,0 +1,18 @@
+id: glm-5-3-flash
+name: GLM-5.3-Flash
+description: Z.ai's first natively multimodal model in the GLM-5 family, designed for efficient coding, agentic work, visual reasoning, and long-context tasks. It uses a 320B-parameter sparse mixture-of-experts architecture with 18B active parameters, hybrid linear and sparse attention, and a context window of up to one million tokens. The model weights are released under the MIT license for local deployment with frameworks including SGLang and vLLM.
+capabilities:
+  - chat
+  - completion
+  - vision
+  - code-generation
+  - reasoning
+modalities:
+  - text
+  - image
+  - code
+context_window: 1000000
+licensing: mit
+country: cn
+created_at: "2026-08-26T00:00:00.000Z"
+updated_at: "2026-08-26T00:00:00.000Z"

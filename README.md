@@ -2,7 +2,7 @@
 
 The open-source registry of LLM models, inference providers, and provider-model mappings. Community-maintained, schema-validated, and machine-readable.
 
-**Current stats:** 136 models · 52 providers · 209 mappings
+**Current stats:** 138 models · 52 providers · 209 mappings
 
 ## Overview
 
@@ -19,11 +19,11 @@ OpenModels is a structured, version-controlled registry that serves as the singl
 | DeepSeek | DeepSeek V4 Pro, DeepSeek V4 Flash, DeepSeek V4, DeepSeek R1, DeepSeek V3 |
 | Meta | Muse Spark 1.1, Muse Spark, Llama 4 Scout, Llama 4 Maverick, Llama 3.3 70B, Llama 3.2 (3B/11B/90B), Llama 3.1 8B |
 | Mistral | Mistral Small 4, Mistral Medium 3.5, Mistral Large 3, Devstral 2, Mistral Small 3.1, Codestral |
-| Alibaba | Qwen 3.8 Max, Qwen 3.7 Plus, Qwen 3.7 Max, Qwen 3.6 (27B, 35B-A3B, Plus), Qwen 3.6, Qwen3 Coder, Qwen3 235B, Qwen3 32B, QwQ-32B |
+| Alibaba | Qwen3.8-Flash-Next, Qwen 3.8 Max, Qwen 3.7 Plus, Qwen 3.7 Max, Qwen 3.6 (27B, 35B-A3B, Plus), Qwen 3.6, Qwen3 Coder, Qwen3 235B, Qwen3 32B, QwQ-32B |
 | Moonshot | Kimi K3, Kimi K2.7 Code, Kimi K2.6 |
 | Cohere | Command A+, Command A, Command R7B |
 | Cohere For AI | Tiny Aya, Aya Expanse 32B |
-| Zhipu | GLM-5.3, GLM-5.2, GLM-5.1, GLM-4.7 |
+| Zhipu | GLM-5.3-Flash, GLM-5.3, GLM-5.2, GLM-5.1, GLM-4.7 |
 | MiniMax | M3, M2.7 |
 | Sarvam AI | Sarvam-M, Sarvam-105B, Sarvam-30B, Sarvam-1 |
 | Sakana AI | Sakana Fugu Ultra, Sakana Fugu |
